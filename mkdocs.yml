@@ -1,0 +1,13 @@
+site_name: TKSL Mind and Mental Factors
+theme: 
+  name: material
+plugins:
+  - mkdocs-video
+nav:
+  - "1 Nature of Mind": sessions/session1.md
+  - "2 Five Similarities and Omnipresent MFs": sessions/session2.md
+  - "3 Ominpresent MFs": sessions/session3.md
+  - "4 Object Ascertaining MFs: Aspiration": sessions/session4.md
+  - "5 Object Ascertaining MFs: Conviction, Mindfulness, Meditative Stabilisation": sessions/session5.md
+  - "6 Object Ascertaining MFs: Wisdom": sessions/session6.md
+  - "Definitions": definitions.md
