@@ -4,10 +4,7 @@ theme:
 plugins:
   - mkdocs-video
 nav:
-  - "1 Nature of Mind": sessions/session1.md
-  - "2 Five Similarities and Omnipresent MFs": sessions/session2.md
-  - "3 Ominpresent MFs": sessions/session3.md
-  - "4 Object Ascertaining MFs: Aspiration": sessions/session4.md
-  - "5 Object Ascertaining MFs: Conviction, Mindfulness, Meditative Stabilisation": sessions/session5.md
-  - "6 Object Ascertaining MFs: Wisdom": sessions/session6.md
+  - "1 Mind and Mental Factors": topics/01_Mind.md
+  - "2 Omnipresent MFs": topics/02_OmnipresentMFs.md
+  - "3 Object Ascertaining MFs": topics/03_ObjectAscertainingMFs.md
   - "Definitions": definitions.md
