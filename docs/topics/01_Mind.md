@@ -15,9 +15,15 @@ That which sees its attribute is a mental factor.
 `Clear and knowing`
 
 * clear = non-physical, intangible
-* knowing = clearly knows objects
+* knowing = knows objects
 
 Helpful analogies: clear glass, mirror
+
+Synonymous:
+
+* awareness
+* knower
+* consciousness
 
 ### Six Primary Consciousness
 1. Eye primary consciousness
@@ -34,7 +40,7 @@ They observe their respective phenomena: forms, sounds, smells, tastes, tactile,
 ### 3 Conditions for a mind to arise
 
 1. Focal condition
-    * The object that is the focus of the mind
+    * The observed object that is the condition for production of that mind
 2. Uncommon empowering condition
     * The sense power that supported its production
 3. Immediately preceding condition
