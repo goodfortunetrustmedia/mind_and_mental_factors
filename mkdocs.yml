@@ -4,7 +4,7 @@ theme:
 plugins:
   - mkdocs-video
 nav:
+  - "Prayers": prayers.md
   - "1 Mind and Mental Factors": topics/01_Mind.md
   - "2 Five Omnipresent MFs": topics/02_OmnipresentMFs.md
   - "3 Five Object Ascertaining MFs": topics/03_ObjectAscertainingMFs.md
-  - "Definitions": definitions.md
