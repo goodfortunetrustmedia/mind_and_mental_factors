@@ -33,16 +33,16 @@ Synonymous:
 5. Body primary consciousness
 6. Mental primary consciousness
 
-Each are primary consciousnesses but differentiated by their respective uncommon empowering condition (e.g. sense power - eye, ear, nose, mental, etc).
+These primary consciousnesses are differentiated by their respective uncommon empowering condition (e.g. sense power - eye sense power (not the eye ball, but the subtle physical faculty within the eye ball), ear sense power, nose sense power, tongue sense power, tactile sense power, and mental sense power).
 
-They observe their respective phenomena: forms, sounds, smells, tastes, tactile, and phenomena.
+Their main focal object respectively are forms (colour and shape), sounds, smells, tastes, tactile, and phenomena.
 
-### 3 Conditions for a mind to arise
+### 3 Conditions for a consciousness to arise
 
 1. Focal condition
-    * The observed object that is the condition for production of that mind
+    * The main observed object that is the condition for production of that mind
 2. Uncommon empowering condition
-    * The sense power that supported its production
+    * The sense power that supports its production
 3. Immediately preceding condition
     * The immeditately prior moment of consciousness
 
